@@ -1,8 +1,8 @@
 # ofwc
 
-Only Fibonacci Wayland Compositor, built on [neuswc](neulibs/) (a dwc fork).
+Only Fibonacci Wayland Compositor, built on neuswc (a dwc fork).
 One layout, dwindle (or spiral); `togglefloating` floats a window inside it.
-Python config with hot reload, XWayland, status bar via [nibar](../nibar/).
+Python config with hot reload, XWayland, status bar via [nibar](https://github.com/nszmak35/nibar).
 
 ## Build
 

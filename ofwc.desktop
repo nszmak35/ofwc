@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=ofwc
+Comment=Only Fibonacci Wayland Compositor
+Exec=dbus-run-session ofwc
+TryExec=ofwc
+Type=Application
+DesktopNames=ofwc

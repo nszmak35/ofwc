@@ -1,0 +1,8 @@
+build/
+ofwc
+__pycache__/
+*.o
+*.bak
+*.orig
+*.tmp
+/ofwcctl

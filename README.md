@@ -7,7 +7,7 @@ Python config with hot reload, XWayland, status bar via [nibar](https://github.c
 ## Build
 
 Needs neuswc (bundled in `neulibs/`) with `swc-launch`,
-wayland (+ `wayland-scanner`), `xkbcommon`, `libinput`, `Python 3 (dev files)`, `GNU make`.
+wayland (+ `wayland-scanner`), `xkbcommon`, `libinput`, `python3-devel`, `GNU make`.
 
     make
     sudo make install
